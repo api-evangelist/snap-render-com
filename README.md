@@ -1,4 +1,4 @@
-# snap-render-com
+# SnapRender
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,22 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SnapRender provides a Screenshot API that allows developers and AI agents to capture any website as PNG, JPEG, WebP, or PDF using real Chrome. The service handles cookie walls, device emulation, and page change monitoring, offering 200 free captures per month. It aims to simplify website rendering for integration into applications, analytics, and automated workflows.
+SnapRender is a production‑grade screenshot and rendering API that lets developers and AI products capture any website as PNG, JPEG, WebP, or PDF using a real Chrome instance. It handles cookie walls, device emulation, and page change monitoring, offering 200 free captures per month. The service targets development teams, agencies, and AI applications, providing reliable website rendering for integration into apps, analytics, and automated workflows.
 
 **Areas:** Company · API · Screenshot · Rendering · Automation · Cloud
 
-## snap-render-com on APIs.io
+## SnapRender on APIs.io
 
-Everything profiled for snap-render-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/snap-render-com/](https://apis.io/providers/snap-render-com/)** — or go straight to one of the APIs or properties below.
+Everything profiled for SnapRender is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/snap-render-com/](https://apis.io/providers/snap-render-com/)** — or go straight to one of the APIs or properties below.
 
 ### APIs (6)
 
 - [snap-render-com Extract API](https://apis.io/apis/snap-render-com/snap-render-com-extract-api/) — The Extract API from snap-render-com — 1 operation(s) for extract.
 - [snap-render-com Health API](https://apis.io/apis/snap-render-com/snap-render-com-health-api/) — The Health API from snap-render-com — 1 operation(s) for health.
 - [snap-render-com Schedules API](https://apis.io/apis/snap-render-com/snap-render-com-schedules-api/) — The Schedules API from snap-render-com — 4 operation(s) for schedules.
-- [snap-render-com Screenshot API](https://apis.io/apis/snap-render-com/snap-render-com-screenshot-api/) — The Screenshot API from snap-render-com — 6 operation(s) for screenshot.
 - [snap-render-com Usage API](https://apis.io/apis/snap-render-com/snap-render-com-usage-api/) — The Usage API from snap-render-com — 2 operation(s) for usage.
 - [snap-render-com Webhooks API](https://apis.io/apis/snap-render-com/snap-render-com-webhooks-api/) — The Webhooks API from snap-render-com — 3 operation(s) for webhooks.
+- [SnapRender Screenshot API](https://apis.io/apis/snap-render-com/snap-render-com-screenshot-api/) — The Screenshot API from SnapRender — 6 operation(s) for screenshot.
 
 ### Published properties
 
@@ -118,7 +118,7 @@ Linked-data contexts for the provider's vocabulary.
 
 Spectral rulesets for the provider's contracts.
 
-- [snap-render-com API Rules](https://apis.io/rules/snap-render-com/snap-render-com-rules/)
+- [SnapRender API Rules](https://apis.io/rules/snap-render-com/snap-render-com-rules/)
 
 #### Security (2)
 
@@ -150,23 +150,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 65.6** — strong · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 59.1** — strong · rubric 0.27.0 · scored 2026-11-08
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 68.3 |
-| Contract governance | 79.1 |
+| Discoverability | 65.0 |
+| Contract quality | 71.3 |
+| Contract governance | 22.0 |
 | Operational transparency | 39.5 |
-| Developer ergonomics | 56.4 |
-| Access clarity | 73.2 |
+| Developer ergonomics | 51.8 |
+| Access clarity | 76.3 |
 
-**Agent readiness 55.6** — agent-ready (gated down from agent-native)
+**Agent readiness 47.2** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | served (partial credit) |
@@ -174,8 +174,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Error Semantics | verified |
 | OpenAPI Examples | partial |
 | Rate Limit Signal | — |
-| Event Surface Described | unknown |
-| Agent Skills | unknown |
+| Event Surface Described | yes |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -186,6 +186,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | — |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
 
 **Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
 
@@ -195,7 +196,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for snap-render-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SnapRender: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
