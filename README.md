@@ -95,7 +95,7 @@ Event-driven and webhook contracts.
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Snap Render Com Agentic Access](https://apis.io/agentic-access/snap-render-com/snap-render-com-agentic-access/)
+- [SnapRender Agentic Access](https://apis.io/agentic-access/snap-render-com/snap-render-com-agentic-access/)
 
 #### JSON Schema (6)
 
@@ -120,18 +120,19 @@ Spectral rulesets for the provider's contracts.
 
 - [SnapRender API Rules](https://apis.io/rules/snap-render-com/snap-render-com-rules/)
 
-#### Security (2)
+#### Security (3)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Snap Render Com Authentication](https://apis.io/security/snap-render-com/snap-render-com-authentication/)
-- [Snap Render Com Domain Security](https://apis.io/security/snap-render-com/snap-render-com-domain-security/)
+- [SnapRender Authentication](https://apis.io/security/snap-render-com/snap-render-com-authentication/)
+- [SnapRender Domain Security](https://apis.io/security/snap-render-com/snap-render-com-domain-security/)
+- [SnapRender Vulnerability Disclosure](https://apis.io/security/snap-render-com/snap-render-com-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Snap Render Com Plans Pricing](https://apis.io/plans/snap-render-com/snap-render-com-plans-pricing/)
+- [SnapRender Plans Pricing](https://apis.io/plans/snap-render-com/snap-render-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -142,6 +143,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Getting started](https://snap-render.com/docs/)
 - [API reference](https://snap-render.com/docs/)
 - [Pricing](https://snap-render.com/pricing)
+- [Support](https://snap-render.com/support)
 - [Changelog](https://snap-render.com/changelog)
 - [Blog](https://snap-render.com/blog)
 - [Terms of service](https://snap-render.com/terms)
@@ -150,18 +152,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 59.1** — strong · rubric 0.27.0 · scored 2026-11-08
+**Kin Score 63.2** — strong · rubric 0.27.0 · scored 2026-11-11
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
-| Contract quality | 71.3 |
+| Discoverability | 81.7 |
+| Contract quality | 70.9 |
 | Contract governance | 22.0 |
-| Operational transparency | 39.5 |
-| Developer ergonomics | 51.8 |
+| Operational transparency | 50.0 |
+| Developer ergonomics | 56.5 |
 | Access clarity | 76.3 |
 
-**Agent readiness 47.2** — agent-ready (gated down from agent-native)
+**Agent readiness 52.4** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -176,7 +178,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | yes |
 | Agent Skills | derived (partial credit) |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -188,7 +190,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/snap-render-com/](https://apis.io/providers/snap-render-com/).
 
